@@ -74,7 +74,7 @@
         "wk:page":"Bazimini"
     },
     "wof:country":"KM",
-    "wof:geomhash":"14f0b9af5b8feea8af10981e0fa5f14c",
+    "wof:geomhash":"166fb7533fa4e168b01448f9da49760a",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -99,5 +99,5 @@
     44.44889000000001,
     -12.17917
 ],
-  "geometry": {"coordinates":[44.44889000000001,-12.17917],"type":"Point"}
+  "geometry": {"coordinates":[44.44889,-12.17917],"type":"Point"}
 }

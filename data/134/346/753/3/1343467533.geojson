@@ -51,7 +51,7 @@
         "wk:page":"Ndzaouz%C3%A9"
     },
     "wof:country":"KM",
-    "wof:geomhash":"8f47bc1f74c34ff4c3e5f54d38aeb9c9",
+    "wof:geomhash":"8aaf0735fca6bbb670843ed4f05c36ef",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -76,5 +76,5 @@
     43.26694000000001,
     -11.40611
 ],
-  "geometry": {"coordinates":[43.26694000000001,-11.40611],"type":"Point"}
+  "geometry": {"coordinates":[43.26694,-11.40611],"type":"Point"}
 }

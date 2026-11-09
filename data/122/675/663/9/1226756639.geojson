@@ -40,7 +40,7 @@
         "gn:id":1092166
     },
     "wof:country":"KM",
-    "wof:geomhash":"0b28fdf40b3b030a02e6a97b594df843",
+    "wof:geomhash":"697723362cfc0cbd77c22111cad31c9f",
     "wof:hierarchy":[
         {
             "continent_id":102191573,
@@ -65,5 +65,5 @@
     43.26694000000001,
     -11.67583
 ],
-  "geometry": {"coordinates":[43.26694000000001,-11.67583],"type":"Point"}
+  "geometry": {"coordinates":[43.26694,-11.67583],"type":"Point"}
 }
